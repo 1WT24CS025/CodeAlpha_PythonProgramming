@@ -1,0 +1,3 @@
+Contact: student@gmail.com
+Support: help@example.com
+Friend: hello123@yahoo.com
